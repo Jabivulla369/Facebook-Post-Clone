@@ -1,0 +1,7 @@
+ Facebook Post Clone Using HTML, CSS & JavaScript. 
+ 
+In this Blog We Will Be Creating the UI (User Interface) Of Facebook Post Which Appears Before Posting Your Content On Facebook.
+
+In this Project User Can Select The Post Visibility Means Friends, Public, Only Me And Many More It Will Work When the User Clicks On the Dropdown Menu.
+
+
